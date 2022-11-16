@@ -1,0 +1,12 @@
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/persistence/SongRepository.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/web/SongUploadConfig.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/controllers/dto/TopSongs.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/persistence/Song.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/web/SongPlayed.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/config/RegionConfig.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/com/translation/TranslationService.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/persistence/SongStatRepository.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/TopSongApplication.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/business/SongService.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/web/SongController.java
+/Users/ashakirin/DevResources/SpringBootMigrator/open-rewrite-main/OpenRewriteMain/demo-spring-song-app-rewrite/src/main/java/org/springboot/example/songs/persistence/SongStat.java
